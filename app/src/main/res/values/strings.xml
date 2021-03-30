@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Daftar Universitas</string>
+    <string name="name_heroes">Nama Universitas</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Universitas Tadulako</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas sebelas maret</item>
+        <item>Universitas Halu Elo</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Isntitut sepuluh November</item>
+
+    </string-array>
+    <string-array name="data_description">
+    <item>
+        Universitas Tadulako, disingkat UNTAD, adalah perguruan tinggi negeri di Palu, Indonesia, sesuai Keppres No. 36 Tahun 1981 Universitas Tadulako berdiri pada tanggal 14 Agustus 1981.[1] Rektor yang sekarang menjabat pada periode 2019–2024 adalah Prof. Dr. Ir. H. Mahfudz, MP.
+    </item>
+    <item>
+        Kampus UGM yang terletak di Yogyakarta merupakan universitas pertama yang didirikan oleh Pemerintah Republik Indonesia setelah Indonesia merdeka.
+    </item>
+    <item>
+        Institut Pertanian Bogor adalah sebuah perguruan tinggi pertanian negeri yang berkedudukan di Bogor. Sebelum diresmikan pada tahun 1963, IPB adalah sebuah fakultas pertanian pada Universitas Indonesia. Pada tanggal 1 September 1963.  </item>
+    <item>
+       Universitas Indonesia disingkat sebagai UI, adalah sebuah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat tepat di perbatasan antara Depok dengan wilayah Jakarta Selatan, dan kampus utama lainnya terdapat di daerah Salemba di Jakarta Pusat.</item>
+    <item>
+        Universitas Airlangga adalah sebuah perguruan tinggi negeri yang terletak di Surabaya, Jawa Timur.  </item>
+    <item>
+      Universitas Diponegoro disingkat sebagai Undip adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Semarang, Jawa Tengah, Indonesia.</item>
+    <item>
+       Universitas Sebelas Maret adalah salah satu universitas negeri di Indonesia yang berada di Kota Solo. Universitas yang giat membangun ini, menyediakan berbagai paket pendidikan mulai dari diploma, sarjana, pascasarjana, dan doktoral.</item>
+    <item>
+        Universitas Haluoleo, disingkat UnHalu, adalah perguruan tinggi negeri di Kendari, Sulawesi Tenggara, Indonesia, yang berdiri tahun 1964 </item>
+    <item>Institut Teknologi Bandung adalah sebuah perguruan tinggi negeri yang berkedudukan di Kota Bandung. Nama ITB diresmikan pada tanggal 2 Maret 1959. </item>
+    <item>
+       Institut Teknologi Sepuluh Nopember adalah perguruan tinggi negeri yang terletak di Surabaya. Pada awalnya, ITS didirikan oleh Yayasan Perguruan Tinggi Teknik yang diketuai oleh dr. Angka Nitisastro pada 10 November 1957.  </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/untad</item>
+    <item>@drawable/ugm</item>
+    <item>@drawable/ipb</item>
+    <item>@drawable/ui</item>
+    <item>@drawable/airlangga</item>
+    <item>@drawable/goro</item>
+    <item>@drawable/sebelas</item>
+    <item>@drawable/halu</item>
+    <item>@drawable/itb</item>
+    <item>@drawable/november</item>
+    </array>
+
+
+
+</resources>
